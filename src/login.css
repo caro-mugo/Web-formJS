@@ -1,0 +1,105 @@
+body {
+    background-color: #FEE19D;
+    /* overflow: hidden; */
+}
+
+.container {
+    margin: 40px;
+    background-color: white;
+    border-radius: 10px;
+    padding: 50px;
+    height: 580px;
+
+}
+
+span {
+    color:#7BC0A1;
+}
+
+.txt-fld input {
+    padding: 8px;
+    border-radius: 10px;
+}
+
+
+
+.logo .signup {
+    padding-left: 700px;
+}
+
+.container h1 {
+    font-size: 40px;
+}
+
+.col {
+    display: flex;
+}
+
+.txt-fld label input {
+    display: flex;
+    margin: 10px;
+    border: 1px solid rgb(150, 143, 143) ;
+}
+
+.txt-fld label {
+    margin: 10px;
+    font-size: 20px;
+}
+
+.txt-fld input {
+    width: 330px;
+    height: 20px;
+}
+
+button {
+    background-color: #7BC0A1;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 30px 2px;
+    cursor: pointer;
+    width: 350px;
+    border-radius: 10px;
+}
+.check_box .forget{
+    padding: 140px;
+}
+.bikers {
+    margin-left: 600px;
+    margin-top: -1000px;
+    height: 400px;
+    width: 400px;
+}
+.imagee{
+    margin-left: 700px;
+    margin-top: -400px;
+}
+/* .fa-facebook{
+    margin-left: 10%;
+}
+.fa-google{
+    margin-left: 15%;
+    margin-bottom:10px;
+}
+.fa-instagram{
+    margin-left: 25%;
+    margin-bottom:30px;
+} */
+.brands{
+    display: flex;
+    padding-left: 4.1vw;
+    /* padding: 0.8rem 4.1vw; */
+
+}
+.fa-instagram{
+    margin-left: 80px;
+}
+.fa-google{
+    margin-left: 80px;
+}
+.fa-facebook{
+    margin-left: 30px;
+}
+
